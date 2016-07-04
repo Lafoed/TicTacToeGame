@@ -17,12 +17,15 @@ a{
     margin-left:100px;
 }
 .cell{
-    vertical-align: top;
-    border-collapse:collapse;
-    border:1px solid black;
-    height: 100px;
-    width: 100px;
     display: inline-block;
+    border:1px black solid;
+    height:80px;
+    width:80px;
+    margin:2px;
+    margin-top:-3px;
+    text-align:center;
+    font-size:3rem;
+    border-radius:10px;
 }
 
 .circle{
